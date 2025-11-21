@@ -148,6 +148,3 @@ Using forensic tools like Autopsy, FTK Imager, Hindsight, and Hex Editor, the pr
 - Cloud apps storing logs in non-standard locations  
 
 ---
-
-## 📎 Repository Contents
-
